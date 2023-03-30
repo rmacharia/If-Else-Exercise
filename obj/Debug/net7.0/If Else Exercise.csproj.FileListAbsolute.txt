@@ -1,0 +1,15 @@
+C:\Users\RoyMacharia\Desktop\If Else Exercise\bin\Debug\net7.0\If Else Exercise.exe
+C:\Users\RoyMacharia\Desktop\If Else Exercise\bin\Debug\net7.0\If Else Exercise.deps.json
+C:\Users\RoyMacharia\Desktop\If Else Exercise\bin\Debug\net7.0\If Else Exercise.runtimeconfig.json
+C:\Users\RoyMacharia\Desktop\If Else Exercise\bin\Debug\net7.0\If Else Exercise.dll
+C:\Users\RoyMacharia\Desktop\If Else Exercise\bin\Debug\net7.0\If Else Exercise.pdb
+C:\Users\RoyMacharia\Desktop\If Else Exercise\obj\Debug\net7.0\If Else Exercise.csproj.AssemblyReference.cache
+C:\Users\RoyMacharia\Desktop\If Else Exercise\obj\Debug\net7.0\If Else Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RoyMacharia\Desktop\If Else Exercise\obj\Debug\net7.0\If Else Exercise.AssemblyInfoInputs.cache
+C:\Users\RoyMacharia\Desktop\If Else Exercise\obj\Debug\net7.0\If Else Exercise.AssemblyInfo.cs
+C:\Users\RoyMacharia\Desktop\If Else Exercise\obj\Debug\net7.0\If Else Exercise.csproj.CoreCompileInputs.cache
+C:\Users\RoyMacharia\Desktop\If Else Exercise\obj\Debug\net7.0\If Else Exercise.dll
+C:\Users\RoyMacharia\Desktop\If Else Exercise\obj\Debug\net7.0\refint\If Else Exercise.dll
+C:\Users\RoyMacharia\Desktop\If Else Exercise\obj\Debug\net7.0\If Else Exercise.pdb
+C:\Users\RoyMacharia\Desktop\If Else Exercise\obj\Debug\net7.0\If Else Exercise.genruntimeconfig.cache
+C:\Users\RoyMacharia\Desktop\If Else Exercise\obj\Debug\net7.0\ref\If Else Exercise.dll
